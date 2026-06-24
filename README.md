@@ -53,12 +53,19 @@ Categories:
    • POST /api/categories
 
 Merchants:
+
    • POST /api/merchants
+   
    • GET /api/merchants
+   
    • GET /api/merchants/:id
+   
    • PATCH /api/merchants/edit/:id
+   
    • DELETE /api/merchants/:id
 
 Authorization:
+
    • All APIs except Login require a JWT token in the header:
-   • Authorization: Bearer <jwt_token>
+   
+      Authorization: Bearer <jwt_token>
