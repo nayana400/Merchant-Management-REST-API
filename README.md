@@ -19,7 +19,7 @@ Installation:
     • cd merchant-management
 
 3. Install dependencies
-4. 
+ 
      • npm install
 
 Install Required Packages:
@@ -30,10 +30,10 @@ Install Required Packages:
 
 Environment Variables:
 
-Create a .env file:
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_secret_key
+    Create a .env file:
+     PORT=5000
+     MONGO_URI=your_mongodb_connection_string
+     JWT_SECRET=your_secret_key
 
 Run the Project:
 
