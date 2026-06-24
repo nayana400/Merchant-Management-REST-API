@@ -14,7 +14,7 @@ Installation:
 
 1. Clone the repository
    
-    • git clone <repo-link>
+    • git clone github-repo-link
     
     • cd merchant-management
 
