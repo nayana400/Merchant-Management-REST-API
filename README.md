@@ -2,6 +2,7 @@ Merchant Management REST API
 
 Tech Stack:
   •	Node.js
+  
   •	Express.js
   •	MongoDB
   •	JWT Authentication
