@@ -16,7 +16,7 @@ Installation:
    
     • git clone github-repo-link
     
-    • cd merchant-management
+    • cd Merchant Management REST API
 
 3. Install dependencies
  
